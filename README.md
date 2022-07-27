@@ -1,5 +1,5 @@
 # Writing
-Ideas and drafts for blog posts and talks.
+Ideas and drafts for blog posts and talks.  I am sharing this publically because why not? 
 
 ## Key aims
 
