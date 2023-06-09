@@ -6,9 +6,9 @@ Ideas and drafts for blog posts and talks🗣.  I am sharing this publically bec
 - Knowledge sharing 💡
 - Learning by writing things down 🤔
 - Promote discussion 
-- Encourage beginners🐣
+- Encourage beginners, pay back to the community🐣
 - Self-promotion🥇
-- Unlock new collaborations 🤼
+- Collaboration 🤼
 
 ## Concepts
 
@@ -22,6 +22,7 @@ Ideas and drafts for blog posts and talks🗣.  I am sharing this publically bec
 
 - pathlib
 - dataclasses
+- collections
 - logging
 
 ## Tools
