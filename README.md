@@ -16,6 +16,7 @@ Ideas and drafts for blog posts and talks🗣.  I am sharing this publically bec
 - Design Patterns
 - Transitioning to tech
 - Fail fast
+- Learning from disasters
 - ADRs
 
 ## Python modules and packages
