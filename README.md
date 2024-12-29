@@ -1,5 +1,5 @@
 # Writing ✍
-Ideas and drafts for blog posts and talks🗣.  I am sharing this publically because why not? 
+Ideas and drafts for blog posts and talks🗣.  I am sharing this publically because why not? I'm very open to co-authoring things - please get in touch!
 
 ## Key aims
 
@@ -17,10 +17,12 @@ Ideas and drafts for blog posts and talks🗣.  I am sharing this publically bec
 - Transitioning to tech
 - Fail fast
 - Learning from disasters
+- Teamwork
 - ADRs
 
 ## Python modules and packages
 
+- Feature flags and Django Waffle 
 - pathlib
 - dataclasses
 - collections
